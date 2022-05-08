@@ -151,7 +151,7 @@ while ($row = $result->fetch_assoc()) {
         <p>Are You Sure Delete <?php echo $row['total_amount'] ?> </p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">no</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">NO</button>
 
 
   <a href="inc/des/deletebdoc.php?id=<?php echo $row['id']; ?>"><button class="btn btn-danger">yes</button></a>
