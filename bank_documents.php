@@ -12,7 +12,7 @@ include 'inc/des/menu.php';
 				<li><a href="#">
 					<em class="fa fa-home"></em>
 				</a></li>
-				<li class="active">Bank Documents</li>
+				<li class="active">Bankk Documents</li>
 			</ol>
 		</div><!--/.row-->
 		
